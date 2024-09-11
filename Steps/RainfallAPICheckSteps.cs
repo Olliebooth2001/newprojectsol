@@ -79,7 +79,7 @@ namespace ApiTests.StepDefinitions
         [When(@"I send a GET request with an invalid parameter")]
         public async Task WhenISendAGETRequestWithAnInvalidParameter()
         {
-            _response = await _client.GetAsync("?_limit=xyz"); // Invalid query parameter
+            _response = await _client.GetAsync("?_limit=inv"); 
         }
 
         // Step to assert that the response contains 5 items
