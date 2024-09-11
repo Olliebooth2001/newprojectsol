@@ -1,5 +1,6 @@
                                                         READ ME
 Instructions to run
+- clone repo into your IDE
 - dotnet build
 - dotnet test
 
@@ -16,7 +17,6 @@ Instructions to run
 - Added additional checks for scenarios to check can handle not just the happy case.
 
 - Explicit test case names and variable names
-
 
 
         Potential improvements 
