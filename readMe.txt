@@ -6,7 +6,7 @@ Instructions to run
 
         Features
 
-- Reused code by allowing for dynamic values in the steps such as the status code which is used at the end of each API call. 
+- Reused code by allowing for dynamic values in the steps such as the status code which is used at the end of scenario. 
 
 - Error messages for debugging.
 
