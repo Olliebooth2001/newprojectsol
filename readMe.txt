@@ -22,9 +22,9 @@ Instructions to run
         Potential improvements 
 
 I would add some basic schema checks for the test returning the 5 results to ensure to ensure variable types and 
-  structure of the response is correct
+  structure of the response is correct.
 
-I would add a test for call duration on each on per call basis 
+I would add a test for call duration on each on per call basis.
 
 Is definitely room to improve on the code quality and good practices in hindsight, but think a lot of this is due to not having 
 experience with specflow, I am familiar with cucumber and all of the concepts but it was my first time ever using 
@@ -36,4 +36,4 @@ Some of the syntax rules and the structure of the function names in the Steps li
 to grasp coming from a background of doing a lot of typescript/javascript.
 
 Apologies for the lack of regular commits and commit messages. Have been away on a long weekend and had quite a lot 
-commitments so has been a bit hectic getting it done in time.
+of commitments so has been a bit hectic getting it done in time.
